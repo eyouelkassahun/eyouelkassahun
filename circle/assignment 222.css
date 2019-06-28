@@ -1,0 +1,45 @@
+
+body{text-justify: auto;
+background-image: url(123.jpg);}
+h1{color:rgb(55, 182, 221);  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-style: italic
+    ; padding: 10px;     text-align: left;} h2{color:red; font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-style: italic; 
+        margin-right: 100px; margin-left: 100px; padding: 10px;} 
+        date{color:white; font-size: 5; background-color: cadetblue; 
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;}  
+p{color: blue; font-weight: 10; text-align: justify; width: 300px; padding: 10px; margin-right: 100px; margin-left: 100px;}  
+.projects{
+    color: rgb(86, 148, 219);  
+    padding: 10px;         
+    text-align: justify;         
+    float:left;         
+    width:50%;        
+     padding:0px;         
+     box-sizing:border-box;    
+    }            
+      button{  
+    position: relative;;                 
+    color: rgb(51, 103, 163);
+    background-image: url(windows-10-uhd-4k-wallpaper.jpg);                 
+     font-size: 20px;                                 
+      border: none;                
+       outline: none;                 
+       left: 0%;                
+        width: 260px;                
+         text-align: left;   
+        }            
+          #sidebar{                 
+              text-align:right;                 
+              float:right;                
+               width:50%;                                  
+               background:none;                 
+               color:#fff; 
+    padding:0px;                
+     box-sizing:border-box;             
+    }  
+.dev1{     
+    fill:rgb(76, 47, 146);  } 
+    .dev2{    
+ fill:black;      } 
+ .removed{ 
+     display: none; 
+    }
